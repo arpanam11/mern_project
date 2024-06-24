@@ -3,7 +3,7 @@ import React from 'react'
 const Card = () => {
   return (
     <div class="card mt-5" style={{width:"400px"}}>
-    <img class="card-img-top" src="..." alt="..."/>
+    <img class="card-img-top" src="/food3.jpg" alt="img"/>
     <div class="card-body">
       <h4 class="card-title">John Doe</h4>
       <p class="card-text">Some example text.</p>

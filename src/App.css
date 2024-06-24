@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  background-color: #fff;
+  border-radius: 10px;
+  border: none;
+  position: relative;
+  margin-bottom: 30px;
+  border:none;
+  box-shadow: 0 .46875rem 2.1875rem rgba(90, 97, 105, .1), 0 .9375rem 1.40625rem rgba(90, 97, 105, .1), 0 .25rem .53125rem rgba(90, 97, 105, .12), 0 .125rem .1875rem rgba(90, 97, 105, .1);
+}
